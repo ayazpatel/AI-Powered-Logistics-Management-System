@@ -260,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in this repository.
+For support, email ayazpatel701@gmail.com or create an issue in this repository.
 
 ## 🏆 Acknowledgments
 
